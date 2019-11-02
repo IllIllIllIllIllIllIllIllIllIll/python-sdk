@@ -2,6 +2,6 @@ click==6.2
 coloredlogs==5.0
 humanfriendly==1.42
 Pygments==2.0.2
-requests==2.8.1
+requests==2.20.0
 androguard==3.2.1
 certifi
