@@ -34,7 +34,7 @@ from . import utils
 
 __author__ = "Antonio Sanchez <asanchez@koodous.com>"
 
-BASE_URL = 'https://api.koodous.com/'
+BASE_URL = 'https://api.koodous.com'
 
 REQUESTS_CA_BUNDLE = certifi.where()
 
